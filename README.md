@@ -1,4 +1,4 @@
-# dio-personapi  <li></li>
+# dio-personapi  
 <h1>Api desenvolvida durante o bootcamp fullStack da Everis na Digital Innovation One.</h1>
 
 <h2>Essa API usa: </h2>
